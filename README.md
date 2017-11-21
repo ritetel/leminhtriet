@@ -1,1 +1,3 @@
 # leminhtriet
+hello kitty
+japan
