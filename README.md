@@ -1,2 +1,0 @@
-# leminhtriet
-hello kitty
